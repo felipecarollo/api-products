@@ -1,4 +1,4 @@
-# API para catálogo de produto
+# API para catálogo de produtos
 ## _API para cadastro, atualização, pesquisa customizada e deleção de produtos._
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
